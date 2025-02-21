@@ -1,2 +1,0 @@
-
-PHPGurukul Code Audit
